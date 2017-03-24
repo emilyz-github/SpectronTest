@@ -24,3 +24,8 @@ Test Electron with following scenarios:
 app.client.getValue('#form input[name=first]'))
 ## Click a button
 app.client.click('#form input[name=add]');
+
+
+# Resources
+## Doc 1:
+electron/docs/tutorial/using-selenium-and-webdriver.md
