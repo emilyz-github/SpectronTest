@@ -29,3 +29,4 @@ app.client.click('#form input[name=add]');
 # Resources
 ## Doc 1:
 electron/docs/tutorial/using-selenium-and-webdriver.md
+https://github.com/electron/electron/blob/master/docs/tutorial/using-selenium-and-webdriver.md
